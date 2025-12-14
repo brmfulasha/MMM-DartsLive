@@ -1,0 +1,8 @@
+{
+  "name": "MMM-DartsLive",
+  "version": "1.0.0",
+  "description": "Live darts match ticker for MagicMirror",
+  "main": "MMM-DartsLive.js",
+  "author": "Nick",
+  "license": "MIT"
+}
